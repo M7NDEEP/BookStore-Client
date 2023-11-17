@@ -9,7 +9,6 @@ The project directory is organized as follows:
 
 ```
 src  
-│
 ├── components      # React components used throughout the application  
 ├── contexts        # Context providers for state management  
 ├── dashboard       # Components and pages related to the dashboard  
