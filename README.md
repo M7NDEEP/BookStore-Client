@@ -8,28 +8,28 @@ This project is a BookStore application built with React. It allows users to man
 The project directory is organized as follows:
 
 ```
-src
+src  
 │
-├── components      # React components used throughout the application
-├── contexts        # Context providers for state management
-├── dashboard       # Components and pages related to the dashboard
-├── firebase        # Firebase configuration and utilities
-├── Home            # Components and pages related to the home view
-├── Privateroute     # Components and utilities for handling private routes
-├── routers         # React Router configurations
-├── shop            # Components and pages related to the shop
-└── stylesheets     # Stylesheets for styling the components
+├── components      # React components used throughout the application  
+├── contexts        # Context providers for state management  
+├── dashboard       # Components and pages related to the dashboard  
+├── firebase        # Firebase configuration and utilities  
+├── Home            # Components and pages related to the home view  
+├── Privateroute     # Components and utilities for handling private routes  
+├── routers         # React Router configurations  
+├── shop            # Components and pages related to the shop   
+└── stylesheets     # Stylesheets for styling the components  
 
-.gitignore           # Git configuration to ignore specific files and directories
-index.html           # HTML entry point for the application
-package-lock.json    # Auto-generated file for package version locking
-package.json         # Project metadata and dependencies
-postcss.config.js    # Configuration for PostCSS, a tool for transforming styles
-README.md            # This file, providing information about the project
-tailwind.config.js   # Configuration file for Tailwind CSS, a utility-first CSS framework
-vite.config.js       # Configuration file for Vite, the build tool used in the project
-
-.eslintrc.cjs        # ESLint configuration for linting JavaScript/React code
+.gitignore           # Git configuration to ignore specific files and directories  
+index.html           # HTML entry point for the application   
+package-lock.json    # Auto-generated file for package version locking  
+package.json         # Project metadata and dependencies  
+postcss.config.js    # Configuration for PostCSS, a tool for transforming styles  
+README.md            # This file, providing information about the project  
+tailwind.config.js   # Configuration file for Tailwind CSS, a utility-first CSS framework  
+vite.config.js       # Configuration file for Vite, the build tool used in the project  
+  
+.eslintrc.cjs        # ESLint configuration for linting JavaScript/React code  
 ```
 
 ## Getting Started
@@ -58,15 +58,15 @@ npm install
 npm run dev
 ```
 
-The application should now be running locally. Open your browser and go to [http://localhost:3000](http://localhost:3000) to view it.
+The application should now be running locally. Open your browser and go to [http://localhost:3000](http://localhost:3000) to view it.  
 
-## Additional Configuration
+## Additional Configuration  
 
-- Customize the Firebase configuration in the `firebase` directory to connect your app to a Firebase project.
-- Adjust the styles in the `stylesheets` directory to match your design preferences.
+- Customize the Firebase configuration in the `firebase` directory to connect your app to a Firebase project.  
+- Adjust the styles in the `stylesheets` directory to match your design preferences.  
 
-## Notes
+## Notes  
 
-- The project is set up with Vite for fast development and includes ESLint for code linting.
-- For more details about Vite, refer to the [official Vite documentation](https://vitejs.dev/).
+- The project is set up with Vite for fast development and includes ESLint for code linting.  
+- For more details about Vite, refer to the [official Vite documentation](https://vitejs.dev/).  
 ```
