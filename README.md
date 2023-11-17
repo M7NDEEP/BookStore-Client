@@ -33,7 +33,7 @@ vite.config.js       # Configuration file for Vite, the build tool used in the p
 
 ## Getting Started
 
-1. Clone the repository: https://github.com/M7NDEEP/BookStore-Client
+1. Clone the repository: https://github.com/M7NDEEP/BookStore-Client.git
 
 ```bash
 git clone <repository-url>
